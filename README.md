@@ -1,4 +1,4 @@
-# Sketch-Templates
+# Sketch Templates
 
 Sketch template with basic MacBook Touch Bar elements and layouts.  
 
